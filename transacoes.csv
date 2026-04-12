@@ -1,0 +1,25 @@
+data,descricao,categoria,tipo,valor
+2026-03-01,SalÃ¡rio marÃ§o,Receita,entrada,3500.00
+2026-03-02,Mercado Extra,AlimentaÃ§Ã£o,saida,187.50
+2026-03-03,Uber,Transporte,saida,23.90
+2026-03-04,Netflix,Lazer,saida,45.90
+2026-03-05,FarmÃ¡cia,SaÃºde,saida,67.30
+2026-03-06,Aluguel,Moradia,saida,1200.00
+2026-03-07,Padaria,AlimentaÃ§Ã£o,saida,18.50
+2026-03-08,Freelance design,Receita,entrada,800.00
+2026-03-10,Posto de gasolina,Transporte,saida,120.00
+2026-03-11,iFood,AlimentaÃ§Ã£o,saida,54.70
+2026-03-12,Academia,SaÃºde,saida,99.90
+2026-03-14,Restaurante,AlimentaÃ§Ã£o,saida,89.00
+2026-03-15,Conta de luz,Moradia,saida,145.00
+2026-03-17,Spotify,Lazer,saida,21.90
+2026-03-18,Supermercado,AlimentaÃ§Ã£o,saida,213.40
+2026-03-20,Consulta mÃ©dica,SaÃºde,saida,180.00
+2026-03-21,Cinema,Lazer,saida,38.00
+2026-03-22,Ã”nibus mensal,Transporte,saida,165.00
+2026-03-24,Curso online,EducaÃ§Ã£o,saida,79.90
+2026-03-25,Mercado Extra,AlimentaÃ§Ã£o,saida,94.20
+2026-03-27,Conta de Ã¡gua,Moradia,saida,58.00
+2026-03-28,BÃ´nus trabalho,Receita,entrada,500.00
+2026-03-29,Lanche,AlimentaÃ§Ã£o,saida,32.00
+2026-03-30,Uber,Transporte,saida,31.50

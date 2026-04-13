@@ -1,6 +1,5 @@
 # ============================================================
 #  extrato.py — Lê um CSV de transações e imprime formatado
-#  Semana 1 — Entrega final do plano de estudos
 # ============================================================
 
 # "import" traz uma biblioteca pronta para usar
@@ -26,7 +25,6 @@ with open("transacoes.csv", "r", encoding="utf-8") as arquivo:
     transacoes = []
 
     # "for linha in leitor" percorre cada linha do CSV
-    # (exatamente o for loop que você aprendeu na semana 1!)
     for linha in leitor:
 
         # linha["valor"] vem como texto "89.90"
@@ -79,7 +77,7 @@ for t in transacoes:
 print("=" * 62)
 
 # Usamos for + if para separar entradas de saídas
-# (for loop + if/else — tudo que você estudou!)
+# (for loop + if/else )
 total_entradas = 0
 total_saidas   = 0
 

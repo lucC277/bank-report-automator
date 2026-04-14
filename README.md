@@ -16,7 +16,7 @@
 ## ▶️ How to run
 ```bash
 # Clone the repository
-git clone https://github.com/SEU-USUARIO/bank-report-automator.git
+git clone https://github.com/lucC277/bank-report-automator.git
 cd bank-report-automator
 
 # Run the script
